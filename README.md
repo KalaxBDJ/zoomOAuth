@@ -9,3 +9,15 @@ Project for building app using Zoom API for create meetings , Authenticate user 
 * [See scheduled meetings & join meetings]
 
 ![create-meeting](/Project_images/callcont03.jpg)
+
+## Development
+* [Front-end (Angular)]
+* [Back-end (Node.JS)]
+
+![dev-example](/Project_images/back.jpg)
+
+# IMPORTANT
+This project is fully private. by that reason i can't publish original project repository.
+
+This repository is only for ilustrative fines.
+Hope you understand.
