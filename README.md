@@ -8,4 +8,4 @@ Project for building app using Zoom API for create meetings , Authenticate user 
 * [Authenticate user with zoom]
 * [See scheduled meetings & join meetings]
 
-![create-meeting](/Project_images/callcont03.png)
+![create-meeting](/Project_images/callcont03.jpg)
